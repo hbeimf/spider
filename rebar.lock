@@ -1,1 +1,8 @@
-[].
+[{<<"emysql">>,
+  {git,"https://github.com/yuilop/Emysql.git",
+       {ref,"1909b7462189db96c2ba7648883c16ffb466720d"}},
+  1},
+ {<<"mysql">>,
+  {git,"https://github.com/hbeimf/mysql.git",
+       {ref,"0d432d03008aa36256b36625592ff2b0edcc2988"}},
+  0}].
